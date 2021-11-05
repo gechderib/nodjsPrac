@@ -1,0 +1,4 @@
+here is the result hello this is  the first text , hello there this is the second text
+
+// sync blocking
+// async non-blocking
